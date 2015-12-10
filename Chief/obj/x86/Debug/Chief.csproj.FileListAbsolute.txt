@@ -1,0 +1,15 @@
+D:\Code\Chief\Chief\bin\Debug\Chief.exe
+D:\Code\Chief\Chief\bin\Debug\Chief.pdb
+D:\Code\Chief\Chief\obj\x86\Debug\Chief.FrmMain.resources
+D:\Code\Chief\Chief\obj\x86\Debug\Chief.Properties.Resources.resources
+D:\Code\Chief\Chief\obj\x86\Debug\Chief.csproj.GenerateResource.Cache
+D:\Code\Chief\Chief\obj\x86\Debug\Chief.exe
+D:\Code\Chief\Chief\obj\x86\Debug\Chief.pdb
+D:\Code\My\Chief\Chief\obj\x86\Debug\Chief.exe
+D:\Code\My\Chief\Chief\obj\x86\Debug\Chief.pdb
+D:\Code\My\Chief\Chief\bin\Debug\Chief.exe
+D:\Code\My\Chief\Chief\bin\Debug\Chief.pdb
+D:\Code\My\Chief\Chief\obj\x86\Debug\Chief.FrmMain.resources
+D:\Code\My\Chief\Chief\obj\x86\Debug\Chief.Properties.Resources.resources
+D:\Code\My\Chief\Chief\obj\x86\Debug\Chief.csproj.GenerateResource.Cache
+D:\Code\My\Chief\Chief\obj\x86\Debug\Chief.csprojResolveAssemblyReference.cache
